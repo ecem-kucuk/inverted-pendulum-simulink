@@ -39,8 +39,27 @@ The model is designed to observe:
 - Pendulum angular position
 - Cart velocity
 
+
 ## Simulation Results
-Simulation plots and observations will be added after reviewing the model outputs.
+
+The following figures show two sets of Scope outputs obtained from the MATLAB/Simulink model.
+
+### Scope 1 — Simulation Output
+
+![Scope 1](simulation_results1.png)
+
+### Scope 2 — Simulation Output
+
+![Scope 2](simulation_results2.png)
+
+### Observations
+
+The first Scope displays a rapidly increasing response during the simulation.
+
+The outputs are presented for comparison and further analysis. Additional verification is required to distinguish the expected system dynamics from potential modelling or numerical issues.
+
+
+
 
 ## Project Files
 The MATLAB/Simulink model and supporting figures will be uploaded to this repository.

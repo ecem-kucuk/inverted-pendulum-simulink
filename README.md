@@ -28,6 +28,12 @@ The input is an external force applied to the cart.
 ## Model Implementation
 The nonlinear equations of motion are represented using mathematical operation blocks and integrators in Simulink.
 
+### Simulink Block Diagram
+The following figure shows the nonlinear inverted pendulum model implemented in MATLAB/Simulink.
+
+![Simulink Block Diagram](simulink_model.png)
+
+
 The model is designed to observe:
 - Cart displacement
 - Pendulum angular position
